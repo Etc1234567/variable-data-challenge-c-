@@ -1,0 +1,14 @@
+C:\Users\ecoble\OneDrive - Burns & McDonnell\Desktop\Code\C#\Challenge-Project-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.exe
+C:\Users\ecoble\OneDrive - Burns & McDonnell\Desktop\Code\C#\Challenge-Project-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.deps.json
+C:\Users\ecoble\OneDrive - Burns & McDonnell\Desktop\Code\C#\Challenge-Project-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+C:\Users\ecoble\OneDrive - Burns & McDonnell\Desktop\Code\C#\Challenge-Project-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.dll
+C:\Users\ecoble\OneDrive - Burns & McDonnell\Desktop\Code\C#\Challenge-Project-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.pdb
+C:\Users\ecoble\OneDrive - Burns & McDonnell\Desktop\Code\C#\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecoble\OneDrive - Burns & McDonnell\Desktop\Code\C#\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+C:\Users\ecoble\OneDrive - Burns & McDonnell\Desktop\Code\C#\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+C:\Users\ecoble\OneDrive - Burns & McDonnell\Desktop\Code\C#\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\ecoble\OneDrive - Burns & McDonnell\Desktop\Code\C#\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.dll
+C:\Users\ecoble\OneDrive - Burns & McDonnell\Desktop\Code\C#\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\refint\Starter.dll
+C:\Users\ecoble\OneDrive - Burns & McDonnell\Desktop\Code\C#\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.pdb
+C:\Users\ecoble\OneDrive - Burns & McDonnell\Desktop\Code\C#\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+C:\Users\ecoble\OneDrive - Burns & McDonnell\Desktop\Code\C#\Challenge-Project-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\ref\Starter.dll
